@@ -25,7 +25,7 @@ SECRET_KEY = '3i^$3^h=^nck4wjax!%*1!3+=$gfcb=6#3=jba#gy7v_!4rb1x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['zsolangi.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
